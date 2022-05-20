@@ -1,0 +1,17 @@
+*{
+    margin: o;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    color: #555;
+}
+
+.imagen {
+    border: 2px;
+    /*border: 10px;*/
+    border-color: red;
+    border-style: inset;
+}
